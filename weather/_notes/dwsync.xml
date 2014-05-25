@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<dwsync>
+<file name="temperature.html" server="192.168.1.99:4213//var/www/weather/" local="130383343320252922" remote="130383343270000000" />
+<file name="barometer.html" server="192.168.1.99:4213//var/www/weather/" local="130382826705316036" remote="130382826670000000" />
+<file name="humidity.html" server="192.168.1.99:4213//var/www/weather/" local="130382826648915448" remote="130382826610000000" />
+<file name="rainfall.html" server="192.168.1.99:4213//var/www/weather/" local="130382826540525119" remote="130382826500000000" />
+<file name="wind.html" server="192.168.1.99:4213//var/www/weather/" local="130382826444610472" remote="130382826410000000" />
+</dwsync>

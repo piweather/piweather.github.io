@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_table" value="name:record_date;datatype:datetime,name:whole;datatype:int,name:Fraction;datatype:string" />
+	<infoitem key="UD_Vehicles" value="name:VIN;datatype:string,name:Year;datatype:int,name:Make;datatype:blob,name:Model;datatype:blob,name:cName;datatype:blob,name:Color;datatype:blob,name:License Plate Number;datatype:blob,name:Purchase Date;datatype:date,name:Purchase Price;datatype:int,name:Purchase Mileage;datatype:int,name:Notes;datatype:blob,name:Sold Date;datatype:date,name:Sold Price;datatype:int,name:Sold Milage;datatype:int" />
+	<infoitem key="UD_Title" value="name:Title;datatype:blob,name:Footer;datatype:blob" />
+	<infoitem key="UD_Totals" value="name:cName;datatype:blob,name:Milage;datatype:real,name:Gallons_Used;datatype:real,name:MPG;datatype:real,name:VIN_ID;datatype:string,name:Cost;datatype:real,name:CPM;datatype:real" />
+	<infoitem key="UD_fuel_table" value="name:VIN_ID;datatype:string,name:Date;datatype:date,name:time;datatype:time,name:Milage;datatype:int,name:Gallons_Used;datatype:real,name:PPG;datatype:real,name:Partial_Tank;datatype:blob,name:cName;datatype:blob,name:Cost;datatype:real" />
+</info>

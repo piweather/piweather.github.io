@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<dwsync>
+<file name="Application.cfm" server="192.168.1.109//var/www/mpg/" local="130074322757913618" remote="130177089700000000" />
+<file name="MMHTTPDB.cfm" server="192.168.1.109//var/www/mpg/" local="130074322757953629" remote="130177089700000000" />
+<file name="MMSERVERINFO.cfm" server="192.168.1.109//var/www/mpg/" local="130074322758023640" remote="130177089700000000" />
+<file name="SQLServer7.cfm" server="192.168.1.109//var/www/mpg/" local="130074322757983625" remote="130177089700000000" />
+<file name="MMHTTPDB.php" server="192.168.1.109//var/www/mpg/" local="130074328064793450" remote="130177089700000000" />
+<file name="mysql.php" server="192.168.1.109//var/www/mpg/" local="130074328064993455" remote="130177089700000000" />
+<file name="MMHTTPDB.php" server="192.168.1.109//var/www/weather/" local="130074328064793450" remote="130293093850000000" />
+<file name="mysql.php" server="192.168.1.109//var/www/weather/" local="130074328064993455" remote="130293093850000000" />
+<file name="Application.cfm" server="192.168.1.109//var/www/weather/" local="130074322757913618" remote="130293093850000000" />
+<file name="MMHTTPDB.cfm" server="192.168.1.109//var/www/weather/" local="130074322757953629" remote="130293093850000000" />
+<file name="MMSERVERINFO.cfm" server="192.168.1.109//var/www/weather/" local="130074322758023640" remote="130293093850000000" />
+<file name="SQLServer7.cfm" server="192.168.1.109//var/www/weather/" local="130074322757983625" remote="130293093850000000" />
+<file name="Application.cfm" server="192.168.1.99:4213//var/www/weather/" local="130074322757913618" remote="130369730670000000" />
+<file name="MMHTTPDB.cfm" server="192.168.1.99:4213//var/www/weather/" local="130074322757953629" remote="130369730670000000" />
+<file name="MMHTTPDB.php" server="192.168.1.99:4213//var/www/weather/" local="130074328064793450" remote="130369730670000000" />
+<file name="MMSERVERINFO.cfm" server="192.168.1.99:4213//var/www/weather/" local="130074322758023640" remote="130369730670000000" />
+<file name="mysql.php" server="192.168.1.99:4213//var/www/weather/" local="130074328064993455" remote="130369730670000000" />
+<file name="SQLServer7.cfm" server="192.168.1.99:4213//var/www/weather/" local="130074322757983625" remote="130369730670000000" />
+</dwsync>

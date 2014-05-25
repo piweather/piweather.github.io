@@ -1,0 +1,5 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_Recordset1" value="name:record_date;datatype:datetime,name:whole;datatype:int,name:Fraction;datatype:string" />
+	<infoitem key="UD_Year" value="name:Year(`record_date`);datatype:int,name:(Sum(`whole`) + Sum(`Fraction` * .16));datatype:real" />
+</info>

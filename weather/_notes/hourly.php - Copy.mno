@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_Last_Hour" value="name:board_date;datatype:date,name:board_time;datatype:time,name:board_temp;datatype:real,name:humidity;datatype:blob,name:barometer;datatype:real,name:wind_speed;datatype:real,name:wind_direction;datatype:real,name:cumulative_rainfall;datatype:real,name:temp1;datatype:real,name:temp2;datatype:real" />
+	<infoitem key="UD_Barometer" value="name:board_time;datatype:time,name:barometer;datatype:real" />
+	<infoitem key="UD_wind_speed" value="name:board_time;datatype:time,name:wind_speed;datatype:real" />
+	<infoitem key="UD_rainfall" value="name:board_time;datatype:time,name:cumulative_rainfall;datatype:real" />
+	<infoitem key="UD_humidity" value="name:board_time;datatype:time,name:humidity;datatype:blob" />
+	<infoitem key="UD_outside_temp" value="name:board_time;datatype:time,name:temp1;datatype:real" />
+</info>

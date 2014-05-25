@@ -1,0 +1,5 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_records" value="name:record_date;datatype:datetime,name:record;datatype:blob,name:record_int;datatype:int" />
+	<infoitem key="UD_outdoor_high" value="name:Date;datatype:date,name:record_name;datatype:blob,name:record_value;datatype:real" />
+</info>

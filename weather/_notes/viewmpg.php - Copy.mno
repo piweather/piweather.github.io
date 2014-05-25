@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_Vehicles" value="name:Vehicles;datatype:blob" />
+	<infoitem key="UD_Price_Per_Gallon" value="name:Date;datatype:string,name:PPG;datatype:real" />
+	<infoitem key="UD_MPG" value="name:cName;datatype:blob,name:Date;datatype:string,name:MPG;datatype:real" />
+	<infoitem key="UD_MPG_limit" value="name:cName;datatype:blob,name:Date;datatype:datetime,name:MPG;datatype:real" />
+</info>

@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_Recordset1" value="name:date;datatype:date,name:whole;datatype:int,name:Fraction;datatype:string" />
+	<infoitem key="UD_Total_Daily_Rainfall" value="name:Date;datatype:date,name:Whole;datatype:int,name:Fraction;datatype:string,name:Total Daily Rainfall;datatype:real" />
+	<infoitem key="UD_update" value="name:record_date;datatype:datetime,name:whole;datatype:int,name:Fraction;datatype:string" />
+</info>

@@ -1,0 +1,4 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_Vehicles" value="name:VIN;datatype:string,name:Year;datatype:int,name:Make;datatype:blob,name:Model;datatype:blob,name:cName;datatype:blob,name:Color;datatype:blob,name:License Plate Number;datatype:blob,name:Purchase Date;datatype:date,name:Purchase Price;datatype:int,name:Purchase Mileage;datatype:int,name:Notes;datatype:blob,name:Sold Date;datatype:date,name:Sold Price;datatype:int,name:Sold Milage;datatype:int" />
+</info>

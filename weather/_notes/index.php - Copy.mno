@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_avgYear" value="name:avgYear;datatype:real" />
+	<infoitem key="UD_avgRainfall" value="name:avgYear;datatype:real" />
+	<infoitem key="UD_avgYearly" value="name:avgYear;datatype:real" />
+</info>

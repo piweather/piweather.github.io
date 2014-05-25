@@ -1,0 +1,4 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_inside_temp" value="name:board_date;datatype:date,name:board_temp_high;datatype:real,name:board_temp_low;datatype:real" />
+</info>
