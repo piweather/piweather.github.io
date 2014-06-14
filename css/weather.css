@@ -1770,7 +1770,7 @@ list-style-type: none;
 /* [disabled]padding: 3px; */
 height: 30px;
 width: 150px;
-background-image: url(../img/backround_red.jpg);
+background-image: url(../img/backround_light.jpg);
 /* [disabled]font-weight: bold; */
 }
 
@@ -1817,4 +1817,23 @@ background-image: url(../img/backround_light.jpg);
 /* [disabled]position: relative; */
 /* [disabled]z-index: 2; */
 color: #333;
+}
+#cf {
+  position:relative;
+  height:281px;
+  width:450px;
+  margin:0 auto;
+}
+
+#cf img {
+  position:absolute;
+  left:0;
+  -webkit-transition: opacity 1s ease-in-out;
+  -moz-transition: opacity 1s ease-in-out;
+  -o-transition: opacity 1s ease-in-out;
+  transition: opacity 1s ease-in-out;
+}
+
+#cf img.top:hover {
+  opacity:0;
 }
