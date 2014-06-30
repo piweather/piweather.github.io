@@ -129,10 +129,11 @@ margin-left: auto;
 /* [disabled]border: 1px solid #F00; */
 }
 
-#text {
+.indent { margin-left: 100px; }
 
+#text {
 min-height: 300px;
-font-family: "Lucida Sans Unicode", "Lucida Grande", sans-serif;
+font-family: Tahoma, Geneva, sans-serif;
 color: #FFF;
 width: 100%;
 }
@@ -252,4 +253,10 @@ padding-top: 2px;
 
 #dropbox img.top:hover {
   opacity:0;
+}
+
+.Hello {
+font-size: 36px;
+font-family: Verdana, Geneva, sans-serif;
+;
 }
